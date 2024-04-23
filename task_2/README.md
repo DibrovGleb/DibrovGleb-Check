@@ -4,7 +4,7 @@
 
 </div>
 
-Одностраничный сервис для конвертации валют с использованием API, [Exchange Rate API](https://www.exchangerate-api.com/docs/free). 
+Одностраничный сервис для конвертации валют с использованием [Exchange Rate API](https://www.exchangerate-api.com/docs/free). 
 
 
 + git clone 
