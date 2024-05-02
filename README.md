@@ -1,5 +1,5 @@
 <div align="center">
 
-# Javscript и Svelte
+# Javascript и Svelte
 
 </div>
